@@ -16,11 +16,11 @@ This is a prototype of a game that I envision and that combines strategy, action
 1. Select a posiiton or an enemy for soldiers to move to through clicking
 2. Select the number of soldiers for a unit
 - Arts:
-3. A basic terrain and basic home camp
+1. A basic terrain and basic home camp
 - Mechanisms:
-4. Dynamic A* (Strategy)
-5. Walking and fighting animations of soldier (Individual-level decision)
-6. 1 physical attack and 1 special attack animation of player
+1. Dynamic A* (Strategy)
+2. Walking and fighting animations of soldier (Individual-level decision)
+3. 1 physical attack and 1 special attack animation of player
 
 ### Due 2021.09.20 - Add basic natural language processing to the game
 
