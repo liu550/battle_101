@@ -6,12 +6,12 @@ This is a prototype of a game that I envision and that combines strategy, action
 
 ## Updates
 
-### 2021.09.08 - Dynamic A* completed. Demo: 
+### 2021.09.08 - Dynamic A* completed. Demo: https://www.youtube.com/watch?v=UamZky4iag0
 
 ## Roadmap
 
 ### Due 2021.09.13 - Finish a prototype of the game
-##Requirements##
+**Requirements**
 - Interface:
 1. Select a posiiton or an enemy for soldiers to move to through clicking
 2. Select the number of soldiers for a unit
